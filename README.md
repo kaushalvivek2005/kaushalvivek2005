@@ -27,7 +27,7 @@
 * React
 
   
-##$ Backend Development
+### Backend Development
 * Django
 * postgresql 
 
