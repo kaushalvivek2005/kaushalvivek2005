@@ -20,11 +20,17 @@
 * SQL
 * Javascript
 
-### Web Development
+### Frontend Development
 
 * HTML
 * CSS
 * React
+
+  
+##$ Backend Development
+* Django
+* postgresql 
+
 
 ### Core Computer Science
 
