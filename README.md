@@ -76,7 +76,7 @@ Frontend development projects built while learning React.js and modern web devel
 
 ## 🤝 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/kaushal-kumar-bb9506328
-- LeetCode: https://leetcode.com/u/LIuB04JrjL/
+- LeetCode: https://leetcode.com/u/i_BlindCoder
 
 ---
 
